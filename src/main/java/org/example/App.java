@@ -33,5 +33,6 @@ public class App
 //        sessionFactory.close();
         System.out.println(sessionFactory.isClosed());
 
+
     }
 }
